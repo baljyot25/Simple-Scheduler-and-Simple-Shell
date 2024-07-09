@@ -3,13 +3,6 @@
 1. [Scheduler.c Overview](#scheduler-c-overview)
 2. [Scheduler Operation](#scheduler-operation)
 3. [SimpleShell Overview](#simpleshell-overview)
-    - 3.1 [Shell_Loop Function](#shell_loop-function)
-    - 3.2 [Shell_loop2 Function](#shell_loop2-function)
-    - 3.3 [History Function](#history-function)
-    - 3.4 [Get_time Function](#get_time-function)
-    - 3.5 [Sys_call Handler Function](#sys_call-handler-function)
-    - 3.6 [Split Function](#split-function)
-    - 3.7 [Create_process_and_run Function](#create_process_and_run-function)
 
 ---
 
