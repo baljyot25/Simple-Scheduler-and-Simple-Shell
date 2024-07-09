@@ -1,8 +1,7 @@
 # Index
 
 1. [Scheduler.c Overview](#scheduler-c-overview)
-2. [Scheduler Operation](#scheduler-operation)
-3. [SimpleShell Overview](#simpleshell-overview)
+2. [SimpleShell Overview](#simpleshell-overview)
 
 ---
 
